@@ -17,7 +17,7 @@
 #### How to use it
 This is a simple HTML template, do whatever you want with this !
 
-To use One Content Column Version, don't forget to add one-content-column-version css class to <body> like in one-content-column.html file.
+To use One Content Column Version, don't forget to add ? one-content-column-version css class to <body> like in one-content-column.html file.
 
 #### Contribute
 We're always looking for:
