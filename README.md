@@ -9,10 +9,10 @@
 * Local jquery.js file removed to use cdnjs.
 
 # Credits
-jQuery 1.8.2
-Google Font (Roboto|Source+Code+Pro)
-Highlight.js 9.8.0
-A Creative Common logo: platform by Emily van den Heever from the Noun Project.
+* jQuery 1.8.2
+* Google Font (Roboto|Source+Code+Pro)
+* Highlight.js 9.8.0
+* A Creative Common logo: platform by Emily van den Heever from the Noun Project.
 
 # How to use it
 This is a simple HTML template, do whatever you want with this !
