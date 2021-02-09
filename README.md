@@ -17,13 +17,11 @@
 #### How to use it
 This is a simple HTML template, do whatever you want with this !
 
-To use One Content Column Version, don't forget to add <div class="text-gray-dark mb-2">
-  .text-gray-dark on white one-content-column-version 
-</div> css class to <body> like in one-content-column.html file.
+To use One Content Column Version, don't forget to add one-content-column-version css class to <body> like in one-content-column.html file.
 
 #### Contribute
 We're always looking for:
 
-* Bug reports, especially those for aspects with a reduced test case,
-* Pull requests for features, spelling errors, clarifications, etc.,
-* Ideas for enhancements.
+* Bug reports, especially those for aspects with a reduced test case
+* Pull requests for features, spelling errors, clarifications, etc.
+* Ideas for enhancements
