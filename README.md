@@ -17,7 +17,9 @@
 #### How to use it
 This is a simple HTML template, do whatever you want with this !
 
-To use One Content Column Version, don't forget to add # f6f8fa one-content-column-version # f6f8fa css class to <body> like in one-content-column.html file.
+To use One Content Column Version, don't forget to add <div class="text-gray-dark mb-2">
+  .text-gray-dark on white one-content-column-version 
+</div> css class to <body> like in one-content-column.html file.
 
 #### Contribute
 We're always looking for:
