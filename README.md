@@ -1,12 +1,12 @@
 # API Documentation HTML Template
 
-# A simple, modern and readable HTML template for APIs documentations
+## A simple, modern and readable HTML template for APIs documentations
 
-# Current version : 1.0.2
-# What's new in the latest version :
-One Content Column version added.
-Fix list <ul> and <ol>.
-Local jquery.js file removed to use cdnjs.
+## Current version : 1.0.2
+## What's new in the latest version :
+* One Content Column version added.
+* Fix list <ul> and <ol>.
+* Local jquery.js file removed to use cdnjs.
 
 # Credits
 jQuery 1.8.2
