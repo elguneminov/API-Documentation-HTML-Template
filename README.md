@@ -5,7 +5,7 @@
 ## Current version : 1.0.2
 ## What's new in the latest version :
 * One Content Column version added.
-* Fix list <ul> and <ol>.
+* Fix list ul and ol.
 * Local jquery.js file removed to use cdnjs.
 
 # Credits
@@ -22,6 +22,6 @@ To use One Content Column Version, don't forget to add one-content-column-versio
 # Contribute
 We're always looking for:
 
-  * Bug reports, especially those for aspects with a reduced test case,
-  * Pull requests for features, spelling errors, clarifications, etc.,
-  * Ideas for enhancements.
+* Bug reports, especially those for aspects with a reduced test case,
+* Pull requests for features, spelling errors, clarifications, etc.,
+* Ideas for enhancements.
