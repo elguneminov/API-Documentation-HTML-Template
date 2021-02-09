@@ -5,7 +5,7 @@
 ### Current version : 1.0.2
 ### What's new in the latest version :
 * One Content Column version added.
-* Fix list > <ul>  and ol.
+* Fix list ul and ol.
 * Local jquery.js file removed to use cdnjs.
 
 #### Credits
@@ -17,7 +17,7 @@
 #### How to use it
 This is a simple HTML template, do whatever you want with this !
 
-To use One Content Column Version, don't forget to add one-content-column-version css class to <body> like in one-content-column.html file.
+To use One Content Column Version, don't forget to add #f6f8fa one-content-column-version css class to <body> like in one-content-column.html file.
 
 #### Contribute
 We're always looking for:
